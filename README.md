@@ -30,7 +30,7 @@ If you'd like to extract insights or discuss the analysis, you can export key da
 ## dashboard interface
 - <a href="https://github.com/sudheerbabuk14/pizzas-sales-analysis-dashboard-and-sql/blob/main/Screenshot%202025-01-20%20131519.png"> dashboard </a>
 ## sql server using data anlaysis
-
+- <a href="https://github.com/sudheerbabuk14/pizzas-sales-analysis-dashboard-and-sql/blob/main/pizzas_sales%20sql%20querys.sql"> sql querys </a>
 ## conclusion
 Specific pizza types onsistently outperform others in sales, suggesting a strong preference among customers.
  The dashboard reveals clear patterns in sales, with peak hours occurring during lunch and dinner times and weekends showing higher overall revenue.
