@@ -39,3 +39,4 @@ Campaigns and discounts have significantly boosted sales during promotional peri
 Insights into customer preferences, order sizes, and frequency help identify loyal customers and areas for growth in customer retention
 
 ## dashboard
+- <a href="https://github.com/sudheerbabuk14/pizzas-sales-analysis-dashboard-and-sql/blob/main/pizza%20sales%20power%20bi.pbix"> dashboard<a/>
