@@ -27,4 +27,15 @@ We need to analyze key indicators for our pizza sales data to gain insights into
    It seems you've uploaded another Power BI file (pizza sales power bi.pbix). Unfortunately, I cannot directly open or read the contents of .pbix files. These files typically contain datasets, visualizations, and dashboards created in Power BI.
 
 If you'd like to extract insights or discuss the analysis, you can export key data or screenshots from your Power BI dashboard and share them.
+## dashboard interface
+- <a href="https://github.com/sudheerbabuk14/pizzas-sales-analysis-dashboard-and-sql/blob/main/Screenshot%202025-01-20%20131519.png"> dashboard </a>
+## sql server using data anlaysis
 
+## conclusion
+Specific pizza types onsistently outperform others in sales, suggesting a strong preference among customers.
+ The dashboard reveals clear patterns in sales, with peak hours occurring during lunch and dinner times and weekends showing higher overall revenue.
+ Sales distribution across locations shows certain regions prefer specific menu items, indicating an opportunity to tailor marketing or menu strategies.
+Campaigns and discounts have significantly boosted sales during promotional periods, suggesting the value of continuing targeted offers.
+Insights into customer preferences, order sizes, and frequency help identify loyal customers and areas for growth in customer retention
+
+## dashboard
