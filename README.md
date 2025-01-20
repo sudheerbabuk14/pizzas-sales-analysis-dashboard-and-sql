@@ -1,7 +1,7 @@
 # Pizzas sales analysis( powerbi and sql server)
 
 ## used data set
-- <a href="https://github.com/sudheerbabuk14/pizzas-sales-analysis-dashboard-and-sql/blob/main/pizza_sales%20excel%20data%20set.xlsx" used dataset </a>
+- <a href="https://github.com/sudheerbabuk14/pizzas-sales-analysis-dashboard-and-sql/blob/main/pizza_sales%20excel%20data%20set.xlsx", used dataset </a>
 
 KPI'S REQUIREMENT
 
